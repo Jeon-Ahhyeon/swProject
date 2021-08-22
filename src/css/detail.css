@@ -1,0 +1,83 @@
+
+.display-inline{
+    display: inline-block;
+    width: 48%;
+    margin-left: 20px;
+}
+.num{
+    background-color: rgb(248, 246, 246);
+    padding: 10px;
+    width: 95%;
+    padding-bottom: 50px;
+}
+
+.num > p , .num > input{
+    float: left;
+}
+
+
+.display-inline button{
+    border: 1px solid #1ecad3;
+    font-size: 1.2em;
+    border-radius: 50px;
+    width: 200px;
+    padding: 10px;
+}
+.whitebtn-shape{
+    margin: 0 auto;
+    width: 100px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 0px;
+    border: 1px solid grey;
+
+}
+.btn-shape{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    background-color: #1ecad3;
+    border-radius: 50px;
+
+}
+.shop_content{
+    text-align: left;
+}
+.shop_content span{
+    color:#4fd84f ;
+}
+.shop_sm{
+    font-size: 0.8em;
+}
+.width-80{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.shop_info table{
+    width: 100%;
+}
+div.shop_info{
+    margin: 60px;
+}
+div.shop_info table,div.shop_info td,div.shop_info th{    /*shop_Detail*/
+    border-top: 1px solid #1ecad3;
+    border-bottom: 1px solid #1ecad3;
+    border-collapse: collapse;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.shop_info ul{
+    width: 100%;
+    text-align: left;
+}
+.shop_info h4{
+    color:  #1ecad3;
+    /* font-size: 1em; */
+    text-align: left;
+}
+.left-border{
+    border-left:1px solid #1ecad3;
+    padding-left: 10px;
+}

@@ -1,0 +1,83 @@
+
+.about-btn{
+    padding: 20px;
+    margin-top: 50px;
+}
+.about-btn a{
+    background-color: #1ecad3;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 30px;
+    text-decoration: none;
+}
+h3{
+    color:  #1ecad3;
+    font-size: 1.5em;
+}
+article.content blockquote{
+    font-size: 0.8em;
+    padding-top:0;
+    margin-top: -1.5em;
+}
+
+.about-accom{
+    display: inline-block;
+    width: 48%;
+    margin-top: 10px auto;
+}
+.about-accom img{
+    width: 80%;
+}
+.about-accom1{
+    display: inline-block;
+    width: 35%;
+    text-align: left;
+}
+.about-accom2{
+    display: inline-block;
+    width: 63%;
+    text-align: left;
+
+}
+.inner-text{
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.about_mission{
+    position: relative;
+}
+.about-div3 div{
+    width: 33%;
+    float: left;
+    margin: 0px auto;
+}
+.main_btntext{
+    color: white;
+    font-size: 2em;
+}
+article{
+    margin-top: 100px;
+}
+.margin-auto{
+    margin: 0px auto;
+}
+.width-25{
+    width: 30%;
+    float: left;
+    margin: 10px auto;
+    padding: 15px;
+}
+.width-25 div{
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+    margin-top: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.width-25 div > h4{
+    margin-bottom: -20px;
+}

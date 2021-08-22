@@ -1,0 +1,47 @@
+
+#joinin div{
+    margin: 20px auto;
+}
+#joinin form {
+    width: 350px;
+    margin: 0 auto;
+}
+#joinin form > div{
+    text-align: left;
+    padding: 10px;
+}
+#joinin input[placeholder]{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin: -1px 10px;
+    width: 300px;
+    padding: 10px;
+}
+#joinin button[type=submit]{
+    border-radius: 0px;
+    width: 320px;
+    border: none;
+    letter-spacing: 0.5em;
+    font-size: 1.2em;
+}
+#join > div > label::after{
+    content: "·";
+    padding-left: 5px;
+    font-size: large;
+    color: red;
+    
+}
+.selectbox{
+    display: inline-block;
+    padding-right: 20px;
+    width: 25%;
+}
+.selectbox select{
+    width: 100%;
+}
+.btn-shape{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    background-color: #1ecad3;
+}
